@@ -1,0 +1,17 @@
+name: nostr_app
+description: A starting point for Dart libraries or applications.
+version: 1.0.0
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: '>=2.19.4 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  nostr_tools: ^1.0.7
+
+dev_dependencies:
+  lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
