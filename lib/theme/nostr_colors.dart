@@ -1,4 +1,4 @@
-// import 'package:flutter/material.dart';
+import 'package:flutter/material.dart';
 //
 // import 'color_theme.dart';
 //
@@ -58,3 +58,7 @@
 //     );
 //   }
 // }
+
+abstract class NostrColors {
+  static const backgroundAppBar = const Color(0xFF673AB7);
+}

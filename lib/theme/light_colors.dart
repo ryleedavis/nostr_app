@@ -1,4 +1,4 @@
-// import 'package:nostr_app/theme/nostr_colors.dart';
+// import 'package:flutter/material.dart';
 //
 // import 'color_theme.dart';
 //
